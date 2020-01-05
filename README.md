@@ -18,7 +18,7 @@ https://www.thingiverse.com/thing:2481949
  - readme.md	- Общее описание
  - LICENSE	- Файл лицензии
  - megawalkman_JNR-01 - Оригинальный проект.
- - dendy_junior_remastered - Проект "Денди Джуниор" для разный типов корпусов
+ - dendy_junior_remastered - Проект "Денди Джуниор" для разных типов корпусов
 
  
 
