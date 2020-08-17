@@ -1,3 +1,4 @@
+.gitignore
 *.dip
 !dendy_junior_remastered_rev_2.0.1.dip
 !dendy_junior_remastered_rev_2.2.1.dip
