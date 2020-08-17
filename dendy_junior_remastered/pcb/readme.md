@@ -6,7 +6,7 @@
 
 
 - dendy_junior_MG-02 - Корпус у которого "джойстики" подключаются с переди
-(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dendy_Junior_frontleft.jpg/1280px-Dendy_Junior_frontleft.jpg)
+![dendy_junior_MG-02](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dendy_Junior_frontleft.jpg/1280px-Dendy_Junior_frontleft.jpg)
 
 - dendy_junior_MG-02(Wide) - Корпус у которого "джойстики" подключаются с переди и расстояние меджу портами увеличенно.
 
