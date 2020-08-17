@@ -1,6 +1,6 @@
 # Dendy Junior Remastered
 
-- Печатные платы разных ревизий и под разные типы корпусов.
+##Печатные платы разных ревизий и под разные типы корпусов.
 
 - dendy_junior_II - Корпус со встроенными "джойстиками"
 ![dendy_junior_II](./cases/Dendy_Junior_II_case.jpg)
