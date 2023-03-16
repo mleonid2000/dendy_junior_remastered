@@ -1,1 +1,0 @@
-# Демонстрационные изображения проекта "dendy junior remastered" revision 2.2 2018
