@@ -1,4 +1,4 @@
-# Dendy Junior Remastered (rev 2.5.1 2022)
+# Dendy Junior Remastered (UM6561_rev 2.5.1 2022)
 
 - assembly - Интерактивные файлы для сборки платы.
 - bom - Список компонентов для сборки проекта.
